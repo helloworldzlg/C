@@ -1,2 +1,2 @@
-# C
+# C Demo
 C programming language
